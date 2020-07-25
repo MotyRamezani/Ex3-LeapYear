@@ -1,6 +1,6 @@
 def fib(arg) :
     if arg <= 0 :
-        print("Please choose a number grater than 0.")
+        print("Please choose a number greater than 0.")
     elif arg == 1 :
         return 0
     elif arg == 2 :   
